@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Adric! 👋
 
-<!--
-**adric2001/adric2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Linux System Administrator** transitioning into **Cloud Engineering**. I love building automated pipelines and serverless infrastructure.
 
-Here are some ideas to get you started:
+**🔧 Tech Stack**
+* **Cloud:** AWS (EC2, Lambda, DynamoDB, SNS, VPC)
+* **IaC:** Terraform
+* **Containers:** Docker, Docker Compose
+* **CI/CD:** GitHub Actions
+* **Languages:** Python, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Recent Projects**
+* [**Sys-Monitor:**](https://github.com/adric2001/sys-monitor) A containerized system monitoring agent deployed via Terraform.
+* [**Serverless Backend:**](https://github.com/adric2001/monitor-backend) An event-driven alerting engine using AWS Lambda & DynamoDB.
+
+[**Connect with me on LinkedIn**](https://www.linkedin.com/in/adric-hall-9964b7259/)
