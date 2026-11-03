@@ -4,10 +4,11 @@ I'm a **Linux System Administrator** transitioning into **Cloud Engineering**. I
 
 **🔧 Tech Stack**
 * **Cloud:** AWS (EC2, Lambda, DynamoDB, SNS, VPC)
-* **IaC:** Terraform, Puppet, Ansible
-* **Containers:** Docker, Docker Compose
+* **IaC:** Terraform, Ansible
+* **Containers:** Docker, Kube
 * **CI/CD:** GitHub Actions, Jenkins
-* **Languages:** Python, Bash 
+* **Languages:** Python, Bash
+* **Monitoring:** Promethesus, Grafana
 
 **🚀 Recent Projects**
 * [**Sys-Monitor:**](https://github.com/adric2001/sys-monitor) A containerized system monitoring agent deployed via Terraform.
