@@ -1,6 +1,6 @@
 ### Hi there, I'm Adric! 👋
 
-I'm a **Linux System Administrator** transitioning into **Cloud Engineering**. I love building automated pipelines and serverless infrastructure.
+I'm a **Cloud Engineer** with a Background in Linux Administration. I love building automated pipelines and serverless infrastructure.
 
 **🔧 Tech Stack**
 * **Cloud:** AWS (EC2, Lambda, DynamoDB, SNS, VPC)
