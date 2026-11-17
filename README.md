@@ -2,6 +2,9 @@
 
 I'm a **Cloud Engineer** with a Background in Linux Administration. I love building automated pipelines and serverless infrastructure.
 
+**Open Source Tools**
+[**DevOps Practice:**](https://github.com/adric2001/devops_practice) A collection of hands-on exercises and practice exams for DevOps tools (currently covering Terraform and Ansible).
+
 **🔧 Tech Stack**
 * **Cloud:** AWS (EC2, Lambda, DynamoDB, SNS, VPC)
 * **IaC:** Terraform, Ansible
